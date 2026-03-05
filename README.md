@@ -34,8 +34,7 @@ Drona AI is an intelligent interview simulation platform that leverages Large La
 - Not a replacement for human interviewers
 
 ## 🌐 Live Demo
-👉 https://www.dronaai.in/
-
+https://drona-ai-aq2tcnbvi3myvqhuzougyh.streamlit
 ## 📄 Future Improvements
 - Multi-round interview scoring
 - Role-specific interview tracks
